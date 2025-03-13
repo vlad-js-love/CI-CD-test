@@ -1,4 +1,4 @@
-# The test was deployed here [Click me](https://celadon-cupcake-ec37b0.netlify.app/).
+The test application was deployed on netlify here [Click me](https://celadon-cupcake-ec37b0.netlify.app/).
 
 # Getting Started with Create React App
 
